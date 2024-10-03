@@ -1,5 +1,4 @@
-CMakeFiles/main.dir/src/main.cpp.o: \
-  /Users/lionelzovi/Cpp-sandbox/src/main.cpp \
+CMakeFiles/main.dir/main.cpp.o: /Users/lionelzovi/Cpp-sandbox/main.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/iostream \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/c++/v1/__config_site \
